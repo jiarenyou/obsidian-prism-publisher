@@ -1,0 +1,10 @@
+{
+  "id": "prism-publisher",
+  "name": "Prism Publisher",
+  "version": "0.0.1",
+  "minAppVersion": "1.4.0",
+  "description": "One-click publish to multiple platforms from Obsidian",
+  "author": "Prism Publisher Team",
+  "authorUrl": "https://github.com/yourusername/obsidian-prism-publisher",
+  "isDesktopOnly": true
+}
