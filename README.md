@@ -1,2 +1,14 @@
 # obsidian-prism-publisher
-A powerful Obsidian plugin for one-click multi-platform publishing. Distribute your notes to WeChat, Zhihu, Xiaohongshu, and more effortlessly.
+
+一次写作，多彩分发。
+
+Prism Publisher 是一款旨在简化内容分发流程的 Obsidian 插件。就像棱镜能将一束光折射出七彩光谱一样，这款插件能将你的一篇 Markdown 笔记，“折射”分发到多个内容平台。
+
+告别繁琐的复制粘贴，告别重复的排版调整，开始享受高效发布。
+
+核心功能：
+
+🚀 一键分发： 在 Obsidian 中直接将草稿发布到微信公众号、知乎、小红书等平台。
+🎨 智能适配： 自动将 Markdown 转换为平台适配的格式（如微信公众号样式、小红书标签等）。
+📝 Frontmatter 支持： 通过 YAML 区块轻松管理文章标题、封面、标签等元数据。
+🔧 高度可配置： 为每个平台自定义发布模板，满足你的个性化需求。
