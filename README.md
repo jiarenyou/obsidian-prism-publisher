@@ -1,14 +1,42 @@
-# obsidian-prism-publisher
+# Obsidian Prism Publisher
 
-一次写作，多彩分发。
+🌈 One-click publish to multiple platforms from Obsidian
 
-Prism Publisher 是一款旨在简化内容分发流程的 Obsidian 插件。就像棱镜能将一束光折射出七彩光谱一样，这款插件能将你的一篇 Markdown 笔记，“折射”分发到多个内容平台。
+## Features
 
-告别繁琐的复制粘贴，告别重复的排版调整，开始享受高效发布。
+- 🚀 **Multi-platform publishing**: Publish to WeChat, Zhihu, Juejin, Xiaohongshu, and Yuque
+- 📊 **Lifecycle management**: Track publication status across all platforms
+- 🔐 **OAuth authentication**: Secure one-click authorization for each platform
+- 📝 **Frontmatter integration**: Configure and track publications in your notes
+- 🎯 **Priority queue**: Manage and schedule publications
 
-核心功能：
+## Installation
 
-🚀 一键分发： 在 Obsidian 中直接将草稿发布到微信公众号、知乎、小红书等平台。
-🎨 智能适配： 自动将 Markdown 转换为平台适配的格式（如微信公众号样式、小红书标签等）。
-📝 Frontmatter 支持： 通过 YAML 区块轻松管理文章标题、封面、标签等元数据。
-🔧 高度可配置： 为每个平台自定义发布模板，满足你的个性化需求。
+```bash
+# Using BRAT
+1. Install BRAT plugin in Obsidian
+2. Add this plugin: https://github.com/yourusername/obsidian-prism-publisher
+```
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Build
+npm run build
+
+# Run tests
+npm test
+```
+
+## Documentation
+
+- [Architecture](docs/ARCHITECTURE.md)
+- [Design Document](docs/plans/2026-02-12-prism-publisher-design.md)
+- [Implementation Plan](docs/plans/2026-02-12-basic-framework.md)
+
+## License
+
+MIT
